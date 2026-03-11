@@ -89,6 +89,7 @@ business-card-project
  - style.css
  - profile.png
  - README.md
+ - Screenshot.png
 
 index.html:
  - Contains the layout and card structure.
