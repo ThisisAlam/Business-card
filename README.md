@@ -85,11 +85,10 @@ This avoids redefining the entire class and keeps the stylesheet organized and s
 
 # 📁 Project Structure
 business-card-project
-│
-├── index.html
-├── style.css
-├── profile.png
-└── README.md
+ - index.html
+ - style.css
+ - profile.png
+ - README.md
 
 index.html:
  - Contains the layout and card structure.
