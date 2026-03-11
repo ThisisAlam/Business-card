@@ -4,6 +4,7 @@ A stylish HTML & CSS animated business card project featuring three visual theme
 - Cream
 - Developer
 - Minimalist
+-
 Each card presents the same personal information while demonstrating different visual styles using CSS themes, hover effects, and animations.
 This project focuses on clean UI design, reusable CSS architecture, and micro-interactions.
 
